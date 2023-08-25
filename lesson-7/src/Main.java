@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        /* understanding error */
+
+        // syntax error
+
+        // semantic error
+
+        // execution time error
+
     }
 }
