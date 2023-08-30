@@ -8,6 +8,10 @@ public class Main {
         // Numeros flutuantes = float (6.8)
         // Caracter = char ("A")
 
-        System.out.println("Hello world!");
+        int age = 20;
+        String fullName = "Alisson Oliveira"; // String e um conjunto de caracteres
+
+        System.out.println("Eu tenho " + age + " anos");
+        System.out.println("Meu nome e " + fullName + " e o seu?");
     }
 }
