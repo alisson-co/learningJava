@@ -11,5 +11,14 @@ public class Main {
             i++;
         }
 
+        System.out.println("Valor de i: " + i + " após sair da estrutura: while.");
+
+        do {
+            i++;
+            System.out.println("Valor de i: " + i);
+        } while (i < 15);
+
+        System.out.println("Valor de i: " + i + " após sair da estrutura: do while.");
+
     }
 }
